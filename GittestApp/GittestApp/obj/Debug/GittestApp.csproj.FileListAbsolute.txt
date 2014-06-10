@@ -1,0 +1,2 @@
+C:\Users\Keenan\Documents\GitHub\Projects\GittestApp\GittestApp\bin\Debug\GittestApp.exe.config
+C:\Users\Employee\Documents\GitHub\ProfinTestApp\GittestApp\GittestApp\bin\Debug\GittestApp.exe.config
